@@ -22,29 +22,29 @@ Personalizado: Un dashboard no es estándar para todas las empresas y estrategia
 
 
 ## Entrevista con usuario
-Para conocer las necesidades de nuestro usuario se realizó una guía de entrevista para conocer su estilo de vida, rutina laboral, y aspectos técnicos del dashboard  que maneja. 
+Para conocer las necesidades de nuestro usuario se realizó una [guía de entrevista](https://docs.google.com/document/d/1iDA4uGtTCiFoHcrjggwvXUmLXyotUrKtr4gsem1fokM/edit?usp=sharing) para conocer su estilo de vida, rutina laboral, y aspectos técnicos del dashboard  que maneja. 
 
 ## Empatizar 
 Tras entrevistar a Alberto se generó un mapa de empatía para conocerlo más a fondo en todas las esferas de su vida. 
 
-![Mapa de empatía]()
+![Mapa de empatía](https://github.com/Cristalgarcia/UXTraining_Dashboard/blob/master/assets/Dashboard%20(1).jpg)
 
 
 Con el objetivo de conocer la percepción de Alberto respecto al dashboard que elabora se hizo un journey map. 
-![Journey map]()
+![Journey map](https://github.com/Cristalgarcia/UXTraining_Dashboard/blob/master/assets/journymap_Dashboard.jpg)
 
-[Link]()
+[Link](https://github.com/Cristalgarcia/UXTraining_Dashboard/blob/master/assets/journymap_Dashboard.jpg)
 
 
 
-Usuarios
+# Usuarios
 Alberto indicó que, si bien él es quien elabora el dashboard y lo actualiza,  existen otros dos tipos de usuarios que se involucran con él. Una de ellas es su jefa directa, Lorena y el segundo son los gerentes de cada una de las tiendas, como lo es Alejandro.
 
-Alberto, especialista en gestión comercial. Al tener la labor de elaborar el dashboard del estatus de ventas tiene como tareas recabar y verificar la información de todas las áreas; elaborar las fórmulas para su llenado, y diseño visual de la información.
+1. Alberto, especialista en gestión comercial. Al tener la labor de elaborar el dashboard del estatus de ventas tiene como tareas recabar y verificar la información de todas las áreas; elaborar las fórmulas para su llenado, y diseño visual de la información.
 
-Lorena, jefa del área de gestión comercial. Utiliza el dashboard para monitorear el estatus de las 151 tiendas.Su labor es gestionar la información de forma rápida, busca conocer las necesidades del gerente para indicar la información que debe de ser integrada en el dashboard. Verifica que el estilo visual sea el idóneo para facilitar la lectura.
+2. Lorena, jefa del área de gestión comercial. Utiliza el dashboard para monitorear el estatus de las 151 tiendas.Su labor es gestionar la información de forma rápida, busca conocer las necesidades del gerente para indicar la información que debe de ser integrada en el dashboard. Verifica que el estilo visual sea el idóneo para facilitar la lectura.
 
-Alejandro, gerente del área de marca. Consulta la información de la tienda a la que está a cargo para comunicar a su equipo de trabajo el estatus de ventas. No tiene conocimiento de las demás tiendas. Tiene como expectativa poder visualizar la información de manera dinámica y legible para ser compartida con los agentes de la tienda. 
+3. Alejandro, gerente del área de marca. Consulta la información de la tienda a la que está a cargo para comunicar a su equipo de trabajo el estatus de ventas. No tiene conocimiento de las demás tiendas. Tiene como expectativa poder visualizar la información de manera dinámica y legible para ser compartida con los agentes de la tienda. 
 
 
 
@@ -71,11 +71,11 @@ Los indicadores de mayor interés para los usuarios son:  prima nuevas líneas p
 # Master graphic 
 
 ## Gráficos
-![Gráficos]()
+![Gráficos](https://github.com/Cristalgarcia/UXTraining_Dashboard/blob/master/assets/Graficas_dashboard.PNG)
 
 
 ## Distribución de la información
-![Distribución]()
+![Distribución](https://github.com/Cristalgarcia/UXTraining_Dashboard/blob/master/assets/Distribuci%C3%B3n_dashboard.PNG)
 
 # Arquitectura de la información
 ## Contenido
@@ -94,6 +94,7 @@ Los indicadores de mayor interés para los usuarios son:  prima nuevas líneas p
 - Bono trimestral por venta.
 
 ## Flujo de contenido
+![Flujo](https://github.com/Cristalgarcia/UXTraining_Dashboard/blob/master/assets/flujo_dashboard.jpg)
 
 
 ## Áreas de oportunidad
@@ -109,8 +110,9 @@ El producto se diseño para visualización de escritorio.
 - La empresa tiene preferencias por utilizar el color azul y el gris. Busca incluir el color blanco ya que lo asocia con pureza. 
 - Preferencias por gráficas para hacer más visual el contenido.
 
-### Peleta de colores
+### Paleta de colores
 Acorde a los requerimientos que solicitaron los usuarios se utilizó una paleta de colores en tonos azules, gris y blanco. 
+![Paleta](https://github.com/Cristalgarcia/UXTraining_Dashboard/blob/master/assets/paleta%20de%20colores_dashboard.PNG)
 
 ### Tipografía
 
@@ -123,13 +125,6 @@ Malgun Gothic: para los números.
 
 ## Prototipo de alta fidelidad 
 El prototipo se puede visualizar en Adobe XD a través de la siguiente [liga](https://xd.adobe.com/view/01d8fcba-e92b-4a19-54cb-d5159bb4fa2a-77e9/?fullscreen).
-
-
-
-
-
-
-
 
 ## Testing
 El dashboard se testeo con tres personas para saber si el flujo de la información y el contenido era legible. Los comentarios realizados fueron: 
@@ -144,7 +139,7 @@ El dashboard se testeo con tres personas para saber si el flujo de la informaci�
 - Cambiar el formato de los semaforos. 
 - Los cuadros en la sección de desglose están desalineados. 
 
-![Imagen testing]()
+![Imagen testing](https://github.com/Cristalgarcia/UXTraining_Dashboard/blob/master/assets/Testing_dashboard.PNG)
  
 
 
@@ -164,14 +159,7 @@ También se le mostró a Alberto Balderas quien indicó los siguientes cambios:
 - Google drive 
 
 ## Interacción
-Para visualizar el flujo de navegación del prototipo consultar el siguiente link.
-
-
-
-
-
-
-
+Para visualizar el flujo de navegación del prototipo consultar el siguiente [link](https://xd.adobe.com/view/01d8fcba-e92b-4a19-54cb-d5159bb4fa2a-77e9/?fullscreen).
 
 ## ¿Qué queremos evaluar con este reto?
 - Tu proceso de trabajo
