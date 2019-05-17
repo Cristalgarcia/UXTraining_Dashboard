@@ -120,7 +120,7 @@ Raleway: para títulos y textos.
 Malgun Gothic: para los números.
 
 ## Sketch 
-![Bocetos]()
+![Bocetos](https://github.com/Cristalgarcia/UXTraining_Dashboard/blob/master/assets/Bocetos_dashboard.PNG)
 
 ## Prototipo de alta fidelidad 
 El prototipo se realizó en Adobe XD. Para visualizarlo dar click en la [liga](https://xd.adobe.com/view/01d8fcba-e92b-4a19-54cb-d5159bb4fa2a-77e9/?fullscreen).
@@ -154,7 +154,7 @@ El prototipo se le presentó a nuestro usuario, Alberto Balderas, quien indicó 
 
 
 #### Diseño primera iteración
-![Diseño primera iteración]()
+![Diseño primera iteración](https://github.com/Cristalgarcia/UXTraining_Dashboard/blob/master/assets/Primera%20iteraci%C3%B3n.PNG)
 
 ## Herramientas utilizadas 
 - Adobe XD 
@@ -164,12 +164,12 @@ El prototipo se le presentó a nuestro usuario, Alberto Balderas, quien indicó 
 ## Interacción
 - Para visualizar  el prototipo consultar el siguiente [link](https://xd.adobe.com/view/01d8fcba-e92b-4a19-54cb-d5159bb4fa2a-77e9/?fullscreen).
 
-- Para visualizar el flujo de navegación concultar la [liga a loom]()
+- Para visualizar el flujo de navegación concultar la [liga a loom](https://www.loom.com/share/a4d4382051384a3fb4e898a46a97e5ff)
 
-![Diseño segunda iteración]()
+![Diseño segunda iteración](https://github.com/Cristalgarcia/UXTraining_Dashboard/blob/master/assets/segunda%20iteraci%C3%B3n.PNG)
 
 ## Presentación
-
+Consultar la presentación ejecutiva [aquí](https://docs.google.com/presentation/d/1ryDaauPvKjgqANrHUKRC0H0-9KBzpc-MUS3IIQjDoDM/edit?usp=sharing)
 
 
 ## ¿Qué queremos evaluar con este reto?
